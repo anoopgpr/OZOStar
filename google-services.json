@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406589373227",
+    "project_id": "ozostars-84ec8",
+    "storage_bucket": "ozostars-84ec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406589373227:android:3298fe8f468cf83c8c636e",
+        "android_client_info": {
+          "package_name": "com.netcarrots.ozone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406589373227-k3i87j2ntffij5lnc51cs2f2jd5pa0pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTd0eZtYHD3Im8---5eBlAZ3qfBRBCOHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406589373227-k3i87j2ntffij5lnc51cs2f2jd5pa0pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
